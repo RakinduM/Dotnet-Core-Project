@@ -7,4 +7,8 @@
     <RootNamespace>Dotnet_Core_Project</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MinimalApis.Extensions" Version="0.11.0" />
+  </ItemGroup>
+
 </Project>

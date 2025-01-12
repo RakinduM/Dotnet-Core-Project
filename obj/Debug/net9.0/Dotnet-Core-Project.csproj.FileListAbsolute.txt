@@ -27,3 +27,9 @@
 /Users/rakindumarambe/Documents/Github/Dotnet-Core-Project/obj/Debug/net9.0/Dotnet-Core-Project.genruntimeconfig.cache
 /Users/rakindumarambe/Documents/Github/Dotnet-Core-Project/obj/Debug/net9.0/ref/Dotnet-Core-Project.dll
 /Users/rakindumarambe/Documents/Github/Dotnet-Core-Project/obj/Debug/net9.0/Dotnet-Core-Project.sourcelink.json
+/Users/rakindumarambe/Documents/Github/Dotnet-Core-Project/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/rakindumarambe/Documents/Github/Dotnet-Core-Project/bin/Debug/net9.0/MinimalApis.Extensions.dll
+/Users/rakindumarambe/Documents/Github/Dotnet-Core-Project/bin/Debug/net9.0/MiniValidation.dll
+/Users/rakindumarambe/Documents/Github/Dotnet-Core-Project/obj/Debug/net9.0/Dotnet-Core-Project.csproj.AssemblyReference.cache
+/Users/rakindumarambe/Documents/Github/Dotnet-Core-Project/obj/Debug/net9.0/Dotnet-Core-Project.MvcApplicationPartsAssemblyInfo.cs
+/Users/rakindumarambe/Documents/Github/Dotnet-Core-Project/obj/Debug/net9.0/Dotnet-C.7031E226.Up2Date
