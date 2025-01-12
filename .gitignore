@@ -1,0 +1,97 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Visual Studio Code specific files
+.vscode/
+*.code-workspace
+
+# Rider specific files
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Project-specific files
+.project
+.pydevproject
+*.cache
+*.pdb
+
+# Python specific files (if any)
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Entity Framework migrations
+Migrations/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish outputs
+wwwroot/
+
+# Azure Web Apps related
+.azure/
+deployments/
+
+# DotNet specific
+*.dotCover
+coverage/
+*.coverage
+*.coveragexml
+*.json
+*.sln.docstates
+*.vspscc
+*.vssscc
+
+# Resharper files
+*.DotSettings.user
+
+# Rider files
+.idea/
+*.sln.iml
+
+# NCrunch files
+*.ncrunchsolution
+*.ncrunchproject
+
+# DocFX files
+/.docfx/
+
+# Tooling
+/.vs/
+.sql
+*.sqlproj
+*.sqlproj.user
