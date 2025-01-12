@@ -26,3 +26,4 @@
 /Users/rakindumarambe/Documents/Github/Dotnet-Core-Project/obj/Debug/net9.0/Dotnet-Core-Project.pdb
 /Users/rakindumarambe/Documents/Github/Dotnet-Core-Project/obj/Debug/net9.0/Dotnet-Core-Project.genruntimeconfig.cache
 /Users/rakindumarambe/Documents/Github/Dotnet-Core-Project/obj/Debug/net9.0/ref/Dotnet-Core-Project.dll
+/Users/rakindumarambe/Documents/Github/Dotnet-Core-Project/obj/Debug/net9.0/Dotnet-Core-Project.sourcelink.json
