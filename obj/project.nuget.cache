@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0VtmnbSMJrc=",
+  "dgSpecHash": "QXTHb9ohbYs=",
   "success": true,
   "projectFilePath": "/Users/rakindumarambe/Documents/Github/Dotnet-Core-Project/Dotnet-Core-Project.csproj",
   "expectedPackageFiles": [
+    "/Users/rakindumarambe/.nuget/packages/microsoft.aspnetcore.jsonpatch/9.0.1/microsoft.aspnetcore.jsonpatch.9.0.1.nupkg.sha512",
+    "/Users/rakindumarambe/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/9.0.1/microsoft.aspnetcore.mvc.newtonsoftjson.9.0.1.nupkg.sha512",
+    "/Users/rakindumarambe/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/rakindumarambe/.nuget/packages/microsoft.data.sqlite.core/9.0.0/microsoft.data.sqlite.core.9.0.0.nupkg.sha512",
     "/Users/rakindumarambe/.nuget/packages/microsoft.entityframeworkcore/9.0.0/microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
     "/Users/rakindumarambe/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.0/microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",
@@ -24,6 +27,8 @@
     "/Users/rakindumarambe/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/Users/rakindumarambe/.nuget/packages/minimalapis.extensions/0.11.0/minimalapis.extensions.0.11.0.nupkg.sha512",
     "/Users/rakindumarambe/.nuget/packages/minivalidation/0.8.0/minivalidation.0.8.0.nupkg.sha512",
+    "/Users/rakindumarambe/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/rakindumarambe/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "/Users/rakindumarambe/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.10/sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
     "/Users/rakindumarambe/.nuget/packages/sqlitepclraw.core/2.1.10/sqlitepclraw.core.2.1.10.nupkg.sha512",
     "/Users/rakindumarambe/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.10/sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
